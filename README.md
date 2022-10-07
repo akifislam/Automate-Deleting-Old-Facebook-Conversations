@@ -1,4 +1,4 @@
-# Delete 1000 old chat threads on Facebook Messanger
+# Delete 1000 old conversations threads on Facebook Messanger
 (Warning : The documentation of this repository is going to be informal enough)
 
 ## Behind the Story
@@ -10,8 +10,8 @@ Suppose,
 Let's say they are Ms. A, Ms. B, Ms. C ... upto Ms.Y.
 - But, Unfortunately, after a few days of flirting, everyone of them cheated on him.
 - Now finally, he has got the love his life (and also his wife) ' Ms. Z '  on his 26th attempt.
-- But he doesn't want his wife to know about his previous records
-- Nowadays, sometimes, his wife checks his messanger. So he wants to delete his all the previous messages from messanger. But is it possible to delete all those 1000+ shits manually? Probably, a big NO.
+- But he doesn't want his wife to know about his previous conversations.
+- Nowadays, sometimes, his wife checks his messanger. So he wants to delete his all the previous conversations from messanger. But is it possible to delete all those 1000+ shits manually? Probably, a big NO.
 
 So, here comes the solution, a simple few line python scripts run without requiring any kind of Facebook email, password or authentication. 
 </br>
